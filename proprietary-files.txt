@@ -77,12 +77,7 @@ lib/libakm.so
 lib/libsensirion_j1.so
 
 # Widevine
-lib/drm/libdrmwvmplugin.so
-lib/libdrmdecrypt.so
-vendor/lib/libwvdrm_L1.so
-vendor/lib/libwvm.so
-vendor/lib/libWVStreamControlAPI_L1.so
-vendor/lib/mediadrm/libwvdrmengine.so
+vendor/lib/mediadrm/libwvdrmengine.so|0276892696f137fc53fc646425b80fa3c4ddb474
 
 # Wifi
 etc/wifi/bcmdhd_apsta.bin
