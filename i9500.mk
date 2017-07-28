@@ -82,8 +82,7 @@ PRODUCT_COPY_FILES += \
 
 # GPU
 PRODUCT_PACKAGES += \
-    pvrsrvctl \
-    libcorkscrew
+    pvrsrvctl
 
 # HW composer
 PRODUCT_PACKAGES += \
