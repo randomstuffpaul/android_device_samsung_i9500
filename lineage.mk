@@ -6,7 +6,7 @@ $(call inherit-product, vendor/cm/config/nfc_enhanced.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-PRODUCT_NAME := cm_i9500
+PRODUCT_NAME := lineage_i9500
 PRODUCT_DEVICE := i9500
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
