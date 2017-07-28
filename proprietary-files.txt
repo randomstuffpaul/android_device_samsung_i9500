@@ -16,6 +16,7 @@ lib/libvdis.so
 vendor/lib/egl/libEGL_POWERVR_SGX544_115.so
 vendor/lib/egl/libGLESv1_CM_POWERVR_SGX544_115.so
 vendor/lib/egl/libGLESv2_POWERVR_SGX544_115.so
+vendor/lib/hw/gralloc.exynos5.so
 vendor/lib/libglslcompiler.so
 vendor/lib/libIMGegl.so
 vendor/lib/liboclcompiler.so
@@ -31,9 +32,6 @@ vendor/lib/libusc.so
 bin/gpsd
 lib/hw/gps.default.so
 lib/libwrappergps.so
-
-# HWC
-vendor/lib/hw/gralloc.exynos5.so
 
 # Media
 vendor/firmware/fimc_is_gumi_fw2.bin
@@ -64,7 +62,6 @@ app/mcRegistry/ffffffff000000000000000000000010.tlbin:vendor/firmware/mcRegistry
 app/mcRegistry/ffffffff000000000000000000000017.tlbin:vendor/firmware/mcRegistry/ffffffff000000000000000000000017.tlbin
 app/mcRegistry/ffffffffd00000000000000000000004.tlbin:vendor/firmware/mcRegistry/ffffffffd00000000000000000000004.tlbin
 app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:vendor/firmware/mcRegistry/ffffffffd0000000000000000000000a.tlbin
-bin/scranton_RD
 
 # NFC
 vendor/firmware/bcm2079xB4_firmware.ncd
